@@ -3,7 +3,7 @@ A QR Code generator that takes URL as input and generates QR Code !
 
 🚀 QRCode Generator App 🚀
 
-Welcome to my QRCode Generator app built with NodeJS! With the power of the Inquirer npm package, you can now easily input your desired URL through the terminal when you run this project. Watch as our app transforms your input into a stunning QR code image using the qr-image npm package, bringing your URLs to life!
+Welcome to my QRCode Generator app built with NodeJS! With the power of the Inquirer npm package, you can now easily input your desired URL through the terminal when you run this project. Watch as the app transforms your input into a stunning QR code image using the qr-image npm package, bringing your URLs to life!
 
 Features:
 
